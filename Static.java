@@ -1,6 +1,6 @@
 import java.util.*;
 class Student{
-    static String college = "Shanmugha";  //static variable
+    static String college = "Shanmugha";  //static -> variable
     int rollno;  //normal variable
     Student(int rollno){
         this.rollno = rollno;  //101
