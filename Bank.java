@@ -7,7 +7,7 @@ class Bankd{
     void  display()
     {
         //local variable
-        int a=10;    //if ew dont initialize the value it will be error -  int a; //error
+        int a=10;    //if we dont initialize the value it will be error -  int a; //error
         System.out.println(a);
 
         System.out.println(Balance);

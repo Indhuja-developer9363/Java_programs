@@ -7,8 +7,7 @@ class Student{
     int rollno;
 
     //methods
-
-    void display(){
+      void display(){
 
 System.out.println(name);
         System.out.println(rollno);
